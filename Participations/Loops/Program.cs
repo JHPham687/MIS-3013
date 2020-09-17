@@ -28,6 +28,7 @@ namespace Loops
             } while (number != guess);
 
             Console.WriteLine("You guessed the correct number! :D");
+
             Console.ReadKey();
 
         }
