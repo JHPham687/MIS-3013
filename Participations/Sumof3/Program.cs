@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Participation2_SumOf3Numbers
+namespace Sum_of_3
 {
     class Program
     {
@@ -23,7 +23,7 @@ namespace Participation2_SumOf3Numbers
                 sumAnswer.ToString("N3"));
 
             Console.WriteLine("The sum multiplied by the constant is " +
-                mulAnswer.ToString("N3"))
+                mulAnswer.ToString("N3"));
         }
     }
 }
