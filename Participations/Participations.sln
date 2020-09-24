@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coin Toss", "Coin Toss\Coin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{84DC360D-1847-4A36-A0E0-EE44CBB40331}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sumof3", "..\..\Participation\Sumof3\Sumof3.csproj", "{DC5AA61B-EAE1-4E2E-9D45-D330DA4CF897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{3C068625-C0F4-48A2-BADF-DF5C90971AE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{84DC360D-1847-4A36-A0E0-EE44CBB40331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84DC360D-1847-4A36-A0E0-EE44CBB40331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84DC360D-1847-4A36-A0E0-EE44CBB40331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5AA61B-EAE1-4E2E-9D45-D330DA4CF897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5AA61B-EAE1-4E2E-9D45-D330DA4CF897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5AA61B-EAE1-4E2E-9D45-D330DA4CF897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5AA61B-EAE1-4E2E-9D45-D330DA4CF897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C068625-C0F4-48A2-BADF-DF5C90971AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C068625-C0F4-48A2-BADF-DF5C90971AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C068625-C0F4-48A2-BADF-DF5C90971AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C068625-C0F4-48A2-BADF-DF5C90971AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
