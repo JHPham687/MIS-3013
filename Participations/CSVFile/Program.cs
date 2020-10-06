@@ -130,6 +130,7 @@ namespace CSVFile
             Console.WriteLine($"The total sales for shipped orders in December is {sumForDec.ToString("C2")}.");
 
             Console.WriteLine($"Total sales of shipped orders is {sum.ToString("C2")}.");
+            
             Console.ReadKey();
         }
     }
