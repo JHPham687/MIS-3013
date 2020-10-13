@@ -45,6 +45,7 @@ namespace CSVFile
                 string year = pieces[9];
                 string month = pieces[8];
                 //sum = sum + Convert.ToDouble(pieces[4]);
+               
 
                 if (pieces[6].Trim().ToLower() == "shipped")
                 {
@@ -61,6 +62,7 @@ namespace CSVFile
                         sumFor2005 += sale;
                     }
                     sum += sale;
+
                     if (Convert.ToDouble(month) == 1)
                     {
                         sumForJan += sale;
