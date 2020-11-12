@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVFile2", "CSVFile2\CSVFil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMethod", "SimpleMethod\SimpleMethod.csproj", "{54C39D50-452C-4402-96DF-E33FA6DD3798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleAndCircle", "RectangleAndCircle\RectangleAndCircle.csproj", "{D50B435C-4B19-4B3E-9244-2D5C910C9C2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleAndCircle", "RectangleAndCircle\RectangleAndCircle.csproj", "{D50B435C-4B19-4B3E-9244-2D5C910C9C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toys", "Toys\Toys.csproj", "{2A162C16-C1EE-45CC-AE30-FF87C9327A8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{D50B435C-4B19-4B3E-9244-2D5C910C9C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D50B435C-4B19-4B3E-9244-2D5C910C9C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D50B435C-4B19-4B3E-9244-2D5C910C9C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A162C16-C1EE-45CC-AE30-FF87C9327A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A162C16-C1EE-45CC-AE30-FF87C9327A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A162C16-C1EE-45CC-AE30-FF87C9327A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A162C16-C1EE-45CC-AE30-FF87C9327A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
