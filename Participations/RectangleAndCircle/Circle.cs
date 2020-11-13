@@ -29,8 +29,5 @@ namespace RectangleAndCircle
             return 2 * Math.PI * Radius;
         }
 
-        
-            
-
     }
 }
