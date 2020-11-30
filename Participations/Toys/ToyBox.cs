@@ -13,11 +13,12 @@ namespace Toys
             Toys = new List<Toy>();
         }
 
-        public Toy GetRandomToy ( )
+        public Toy GetRandomToy()
         {
+            Random rand = new Random();
+            int randomToy = rand.Next(0, Toys.Count);
 
-            //Add Program Here
-
+            return Toys[randomToy];
         }
     }
 }
